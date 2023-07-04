@@ -8,4 +8,4 @@ If you want to encrypt with a known key then you can enter the key when you are 
 Click genarate to get result. 
 Click 'Save File' to save your result as a text file.
 
-NOTE: This program can't recognise new line. Hence, turn those new line into one line before encrypting or decrypting.
+NOTE: This program can't recognise new line. Hence, turn the whole message into one single line before encrypting or decrypting. Foulanguage can only decrypt the messages enrypted by this program.
